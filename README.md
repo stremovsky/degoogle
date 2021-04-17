@@ -881,6 +881,7 @@ No known alternatives.
 
 Everything you need to become a Privacy Wizard.
 
+- [Databunker](https://databunker.org/) - Databunker is an open-source, network-based, self-hosted, GDPR compliant, secure storage for personal data.
 - [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
 - [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
